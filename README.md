@@ -26,7 +26,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=404shubham&" alt="404shubham" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=404shubham&theme=dracula)](https://github.com/404shubham/github-readme-activity-graph)
 
 [![@404shubham's Holopin board](https://holopin.io/api/user/board?user=404shubham)](https://holopin.io/@404shubham)
 
