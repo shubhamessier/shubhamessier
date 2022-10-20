@@ -22,3 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=404shubham&show_icons=true&locale=en" alt="404shubham" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=404shubham&" alt="404shubham" /></p>
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
+[![@404shubham's Holopin board](https://holopin.io/api/user/board?user=404shubham)](https://holopin.io/@404shubham)
+
