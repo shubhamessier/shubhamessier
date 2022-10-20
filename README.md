@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Gaur</h1>
 <h3 align="center">I'm a passionate developer, a reader and a people person</h3>
 
-<img align=“right” alt=“coding” width=“400” src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif”>
-
 <p align="left"> <a href="https://twitter.com/01shubhamgaur" target="blank"><img src="https://img.shields.io/twitter/follow/01shubhamgaur?logo=twitter&style=for-the-badge" alt="01shubhamgaur" /></a> </p>
 
 - 🌱 I’m currently learning **Data structures and algorithims**
