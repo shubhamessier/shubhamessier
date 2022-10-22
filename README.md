@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 <h1 align="center">Hola 👋, I'm Shubham Gaur</h1>
 <h3 align="center">I'm a passionate developer, a reader, a coldplay fan and a tech enthusiast</h3>
@@ -25,8 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=404shubham&show_icons=true&locale=en" alt="404shubham" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=404shubham&" alt="404shubham" /></p>
-
-https://www.youtube.com/feeds/videos.xml?UC1dc3NntZqS9SsEJFmD3xug=<UC1dc3NntZqS9SsEJFmD3xug>
 
 
 [![@404shubham's Holopin board](https://holopin.io/api/user/board?user=404shubham)](https://holopin.io/@404shubham)
