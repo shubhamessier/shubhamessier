@@ -2,12 +2,12 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
-<h1 align="center">Hola 👋, I'm Shubham Gaur</h1>
+<h1 align="center">I'm Shubham Gaur</h1>
 <h3 align="center">I'm a passionate developer, a reader, a coldplay fan and a tech enthusiast</h3>
 
 <img align="right" alt="gif" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
 <p align="left"> <a href="https://twitter.com/01shubhamgaur" target="blank"><img src="https://img.shields.io/twitter/follow/01shubhamgaur?logo=twitter&style=for-the-badge" alt="01shubhamgaur" /></a> </p>
 
 - 🌱 I’m currently learning **Data structures and algorithims**
