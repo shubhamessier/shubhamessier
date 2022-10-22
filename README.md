@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
@@ -7,7 +7,8 @@
 
 <img align="right" alt="gif" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=404shubham)
+
 <p align="left"> <a href="https://twitter.com/01shubhamgaur" target="blank"><img src="https://img.shields.io/twitter/follow/01shubhamgaur?logo=twitter&style=for-the-badge" alt="01shubhamgaur" /></a> </p>
 
 - 🌱 I’m currently learning **Data structures and algorithims**
