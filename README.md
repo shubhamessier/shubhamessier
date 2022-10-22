@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-<h1 align="center">I'm Shubham Gaur</h1>
+<h1 align="left">I'm Shubham Gaur</h1>
 <h3 align="center">I'm a passionate developer, a reader, a coldplay fan and a tech enthusiast</h3>
 
 <img align="right" alt="gif" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
