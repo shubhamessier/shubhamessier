@@ -1,7 +1,7 @@
 <h1 align="center">こんにちは 👋, I'm Shubham Gaur</h1>
 <h3 align="center">I'm a passionate developer, a reader, a coldplay fan and a tech enthusiast</h3>
 
-<img align="right" alt="gif" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
+<img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/f7/78/d7/f778d7d5dccbf903ef2d6523064ad30f.gif">
 
 ![](https://komarev.com/ghpvc/?username=404shubham)
 
