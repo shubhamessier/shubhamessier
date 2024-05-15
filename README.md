@@ -20,6 +20,8 @@
 <a href="https://www.hackerrank.com/shubhamexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamexe" height="30" width="40" /></a>
 </p>
 
+**Dynamic Contributions**
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/output/github-contribution-grid-snake.svg">
