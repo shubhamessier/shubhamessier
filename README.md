@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=shubhamessier)
 
-<p align="left"> <a href="https://twitter.com/01shubhamgaur" target="blank"><img src="https://img.shields.io/twitter/follow/01shubhamgaur?logo=twitter&style=for-the-badge" alt="01shubhamgaur" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xshubhamgaur" target="blank"><img src="https://img.shields.io/twitter/follow/01shubhamgaur?logo=twitter&style=for-the-badge" alt="01shubhamgaur" /></a> </p>
 
 - 🌱 I’m currently learning **Data structures and algorithims**
 
