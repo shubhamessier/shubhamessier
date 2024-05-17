@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=shubhamessier)
 
-<p align="left"> <a href="https://twitter.com/0xshubhamgaur" target="blank"><img src="https://img.shields.io/twitter/follow/01shubhamgaur?logo=twitter&style=for-the-badge" alt="01shubhamgaur" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xshubhamgaur" target="blank"><img src="https://img.shields.io/twitter/follow/0xshubhamgaur?logo=twitter&style=for-the-badge" alt="0xshubhamgaur" /></a> </p>
 
 - 🌱 I’m currently learning **Data structures and algorithims**
 
@@ -36,5 +36,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamessier&" alt="shubhamessier" /></p>
 
 
-[![@shubhamessier's Holopin board](https://holopin.io/api/user/board?user=shubhamessier)](https://holopin.io/@shubhamessier)
+[![@shubhamessier's Holopin board](https://holopin.io/api/user/board?user=shubhamessier)](https://holopin.io/@404shubham)
 
