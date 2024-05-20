@@ -30,6 +30,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamessier&" alt="shubhamessier" /></p>
 
-
-[![@shubhamessier's Holopin board](https://holopin.io/api/user/board?user=shubhamessier)](https://holopin.io/@404shubham)
-
