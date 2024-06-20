@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/0xshubhamgaur" target="blank"><img src="https://img.shields.io/twitter/follow/0xshubhamgaur?logo=twitter&style=for-the-badge" alt="0xshubhamgaur" /></a> </p>
 
-- 🌱 I’m currently learning **Data structures and algorithims**
+- 🌱 I’m currently learning **Data structures and algorithims** & **Backend Development**
 
-- 👔 Currently working @Anti.AI
+- 👔 Currently working **@Anti.AI**
 
 - 📫 How to reach me **shubham.gaur7116@gmail.com**
 
