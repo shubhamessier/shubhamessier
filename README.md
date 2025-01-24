@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data structures and algorithims** & **Backend Development**
 
-- 👔 Currently working **@Smartdocs Inc**
+- 👔 Currently working on **@Astroyapper**
 
 - 📫 How to reach me **shubham.gaur7116@gmail.com**
 
