@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは 👋, I'm Shubham Gaur</h1>
+<h1 align="center">I'm Shubham Gaur</h1>
 <h3 align="center">I'm a passionate developer, a reader, a coldplay fan and a tech enthusiast</h3>
 
 <img align="right" alt="gif" width="400" src="https://24.media.tumblr.com/68b6c42e1b6f9b44651c4d059d5edcc6/tumblr_mtaspyUELI1qarep3o1_500.gif" padding=20px>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data structures and algorithims** & **Backend Development**
 
-- 👔 Currently working on **@Astroyapper**
+- 👔 Currently working with **Solsphere AI**
 
 - 📫 How to reach me **shubham.gaur7116@gmail.com**
 
