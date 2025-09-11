@@ -27,7 +27,7 @@
 ---
 
 ## GitHub Stats & Activity  
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamessier&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamessier&theme=tokyonight" height="180"/>
 </p>
