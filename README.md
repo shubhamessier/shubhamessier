@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hey, I'm Shubham (DDoxx)</h1>
+<h1 align="center">Hey, I'm Shubham (ddoxxed)</h1>
 <h3 align="center">A passionate developer, tech enthusiast, Coldplay fan, and reader</h3>
 
 <p align="center">
